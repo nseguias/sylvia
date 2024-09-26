@@ -1,5 +1,5 @@
 [workspace]
-members = ["sylvia", "sylvia-derive"]
+members = [ "contract","sylvia", "sylvia-derive"]
 exclude = ["examples/*"]
 resolver = "2"
 
